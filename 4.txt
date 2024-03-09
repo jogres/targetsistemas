@@ -1,0 +1,13 @@
+
+Para resolver esse problema, você pode seguir os seguintes passos:
+
+Ligue um interruptor e aguarde alguns minutos para permitir que a lâmpada aqueça.
+Desligue o interruptor.
+Ligue outro interruptor e desligue apos alguns segundos.
+Entre na sala das lâmpadas.
+Ao entrar na sala das lâmpadas, você poderá identificar:
+
+A lâmpada que está acesa e quente foi controlada pelo primeiro interruptor que você ligou.
+A lâmpada que está apagada e fria foi controlada pelo interruptor que você ligou segundo e desligou por último.
+A lâmpada restante foi controlada pelo interruptor que você não tocou.
+Dessa forma, você pode determinar qual interruptor controla cada lâmpada usando apenas duas idas até a sala das lâmpadas.
